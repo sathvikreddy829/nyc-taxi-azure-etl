@@ -56,10 +56,6 @@ Dynamic SQL procedures were used to:
 Create external tables per partition.
 Generate analytical views dynamically.
 
-Examples:
-Trip duration analysis using DATEDIFF and understanding integer vs decimal division.
-Payment type breakdowns using SUM(CASE WHEN...), COUNT(1), and CAST(... AS DECIMAL) for percentage calculations.
-Important Concepts Applied
 CSV & JSON Parsing
 Used standard-compliant parsing rules to handle real-world messy data.
 Ensured quotes and special characters (like \n, \t, \\) were handled correctly.
