@@ -22,9 +22,7 @@ Query Optimization Techniques:
 Specified datatypes with sizes using the WITH clause to minimize scanned data volume.
 Queried only a subset of required columns to improve performance.
 Applied filters on large datasets to limit processing to relevant records.
-Used field terminators and row terminators to correctly interpret CSV structures following RFC 4180 standards.
-
-![Pipeline Screenshot](https://github.com/sathvikreddy829/nyc-taxi-azure-etl/blob/63f5cd7a2fdfc276390f4eece9f5f8fc73b5f289/reference_images/Screenshot%202025-04-26%20191930.png)
+Used field terminators and row terminators to correctly interpret CSV structures following RFC 4180 standards
 
 Data Quality Checks:
 
