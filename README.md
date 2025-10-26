@@ -11,8 +11,8 @@ The main goal of this project is to efficiently explore and analyze NYC Taxi Tri
 By optimizing query patterns, managing data quality, and adhering to best practices for performance and GDPR compliance, this project sets up a scalable analytical environment.
 
 The dataset includes various formats:
-CSV
-Standard JSON
+CSV,
+Standard JSON and
 Multi-line JSON
 
 Key Steps & Implementation🔍
