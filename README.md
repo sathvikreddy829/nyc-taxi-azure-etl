@@ -84,4 +84,4 @@ Lakehouse Architecture (Bronze, Silver, Gold)
 Conclusion
 This project showcases how Serverless SQL Pools can power cost-effective, scalable in Azure — using well-architected pipelines and optimizing every stage from raw ingestion to curated reporting layers.
 
-✅ After implementing all these best practices and optimizations, I have successfully built an end-to-end, robust data pipeline — capable of handling real-world messy datasets, ensuring data quality, optimizing performance, and enabling efficient downstream analytics in a fully serverless environment.
+✅ After implementing all these best practices and optimizations, I have successfully built an end-to-end, robust data pipeline — capable of handling real-world messy datasets, ensuring data quality and optimizing performance
